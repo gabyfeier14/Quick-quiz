@@ -1,0 +1,26 @@
+[
+    {
+       "question": "Inside wich HTML element do we put teh JavaScript?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "The correct sequence of HTML tags for starting a webpage is -",
+        "choice1": "Head, Title, HTML, body",
+        "choice2": "HTML, Body, Title, Head",
+        "choice3": "HTML, Head, Title, Body",
+        "choice4": "HTML, Head, Title, script",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+        "choice1": "<h3>",
+        "choice2": "<h1>",
+        "choice3": "<h5>",
+        "choice4": "<h6>",
+        "answer": 2
+    }
+]
